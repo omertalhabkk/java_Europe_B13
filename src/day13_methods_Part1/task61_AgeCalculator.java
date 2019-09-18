@@ -7,7 +7,7 @@ public class task61_AgeCalculator {
 		
 		ageCalculator(2019, 1965);
 		ageCalculator(2019, 1875);
-
+		
 
 	}
 	
